@@ -20,7 +20,7 @@ Interactive Tableau dashboard built to visualize business KPIs and support data-
 - Interactive filters improve exploratory analysis
 
 ## Tableau Public Link
-(Add your Tableau Public URL here)
+ Ravina1436/tableau-business-dashboard
 
 ## Files
 - .twb Tableau workbook
